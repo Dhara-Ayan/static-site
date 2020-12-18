@@ -1,2 +1,2 @@
 # static-site
-[open the preview](https://dhara-ayan.github.io)
+[open the preview](https://dhara-ayan.github.io/static-site)
